@@ -1,6 +1,6 @@
 # Sentiment-Analyzer
 
-<img width="600" alt="image" src="https://github.com/AdamchDarkness/Sentiment-Analyzer/assets/99686957/3427866e-f4fe-4eff-b074-89df1e49c8f7">
+<img width="600" alt="Capture d’écran 2023-08-06 à 14 44 10" src="https://github.com/AdamchDarkness/Sentiment-Analyzer/assets/99686957/71296501-66f4-4a75-a83b-fc2b7c9c2a8c">
 
 
 Install dependencies 
